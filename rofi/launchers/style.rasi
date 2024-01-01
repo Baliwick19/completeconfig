@@ -16,12 +16,12 @@ configuration {
 // Main window.
 window {
     transparency:                "real";
-    location:                    south;
-    anchor:                      south;
+    location:                    northwest;
+    anchor:                      northwest;
     fullscreen:                  false;
-    width:                       700px;
+    width:                       200px;
     x-offset:                    0px;
-    y-offset:                    -10px;
+    y-offset:                    30px;
     enabled:                     true;
     margin:                      0px;
     padding:                     0px;
@@ -86,8 +86,8 @@ entry {
 // Area where all of the results are displayed.
 listview {
     enabled:                     true;
-    columns:                     15;
-    lines:                       1;
+    columns:                     4;
+    lines:                       4;
     cycle:                       true;
     dynamic:                     true;
     scrollbar:                   false;

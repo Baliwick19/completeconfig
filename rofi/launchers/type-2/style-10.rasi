@@ -43,8 +43,8 @@ window {
     transparency:                "real";
     location:                    center;
     anchor:                      center;
-    fullscreen:                  true;
-    width:                       1366px;
+    fullscreen:                  false;
+    width:                       500px;
     height:                      768px;
     x-offset:                    0px;
     y-offset:                    0px;
@@ -110,8 +110,8 @@ entry {
 /*****----- Listview -----*****/
 listview {
     enabled:                     true;
-    columns:                     8;
-    lines:                       3;
+    columns:                     4;
+    lines:                       4;
     cycle:                       true;
     dynamic:                     true;
     scrollbar:                   false;
@@ -140,7 +140,7 @@ scrollbar {
 /*****----- Elements -----*****/
 element {
     enabled:                     true;
-    spacing:                     @element-spacing;
+    spacing:                     10px;
     margin:                      0px;
     padding:                     @element-padding;
     border:                      0px solid;
@@ -157,14 +157,14 @@ element normal.normal {
 }
 element selected.normal {
     border:                      0px 0px 4px 0px;
-    border-color:                @selected;
+    border-color:                transparent;
     background-color:            @background-alt;
     text-color:                  @foreground;
 }
 element-icon {
     background-color:            transparent;
     text-color:                  inherit;
-    size:                        @icon-size;
+    size:                        40;
     cursor:                      inherit;
 }
 element-text {

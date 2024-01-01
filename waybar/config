@@ -6,8 +6,8 @@
     "spacing": 4, // Gaps between modules (4px)
     "layer": "top", 
     // Choose the order of the modules
-    "modules-center": ["hyprland/workspaces", "hyprland/mode", "hyprland/scratchpad"],
-    "modules-left": ["hyprland/window"],
+    "modules-center": [ "hyprland/workspaces", "hyprland/mode", "hyprland/scratchpad"],
+    "modules-left": ["custom/apps","hyprland/window"],
     "modules-right": [  "network", "network_wifi", "backlight","cpu",
     "memory", "temperature", "disk", "battery", "pulseaudio", "clock", "tray",
     "custom/powermenu"],
@@ -116,6 +116,12 @@
         "format": "⏻  ",
         "on-click": "~/.config/rofi/powermenu/pop.sh",
         "tooltip" : false , 
-}
+    },
+    "custom/apps": {
+        "format": "  ", 
+        "on-click": "~/.config/rofi/launchers/pop.sh",
+        "tooltip" : false , 
+    },
+    
 }
 
