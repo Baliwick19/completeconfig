@@ -6,7 +6,7 @@
 
 window#waybar {
     /* background-color: #121210; */
-    background-color: rgba(18, 18, 18, 1);
+    background-color: rgba(0, 0, 0, 1);
     border-bottom: 0px solid rgba(100, 114, 125, 0);
     /* border-bottom: 3px solid rgba(100, 114, 125, 0.5); */
     color: #ffffff;
@@ -46,7 +46,6 @@ button {
 
 /* https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
 button:hover {
-    background: inherit;
 }
 
 #workspaces button {

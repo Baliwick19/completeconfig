@@ -9,7 +9,8 @@
     "modules-center": ["hyprland/workspaces", "hyprland/mode", "hyprland/scratchpad"],
     "modules-left": ["hyprland/window"],
     "modules-right": [  "network", "network_wifi", "backlight","cpu",
-    "memory", "temperature", "disk", "battery", "pulseaudio", "clock", "tray"],
+    "memory", "temperature", "disk", "battery", "pulseaudio", "clock", "tray",
+    "custom/powermenu"],
 
     // Modules configuration
 
@@ -111,5 +112,10 @@
         "max-length" : 7 , 
 
     },
+    "custom/powermenu": {
+        "format": "⏻  ",
+        "on-click": "~/.config/rofi/powermenu/pop.sh",
+        "tooltip" : false , 
+}
 }
 

@@ -44,7 +44,7 @@ window {
     width:                       1000px;
     border-radius:               50px;
     cursor:                      "default";
-    background-color:            var(background-window);
+    background-color:            transparent;
 }
 
 /*****----- Main Box -----*****/
