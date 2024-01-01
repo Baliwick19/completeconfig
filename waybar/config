@@ -113,7 +113,7 @@
 
     },
     "custom/powermenu": {
-        "format": "⏻  ",
+        "format": "⏻ ",
         "on-click": "~/.config/rofi/powermenu/pop.sh",
         "tooltip" : false , 
     },
