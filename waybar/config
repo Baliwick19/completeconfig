@@ -8,7 +8,7 @@
     // Choose the order of the modules
     "modules-center": [ "hyprland/workspaces", "hyprland/mode", "hyprland/scratchpad"],
     "modules-left": ["custom/apps","hyprland/window"],
-    "modules-right": [  "network", "network_wifi", "backlight","cpu",
+    "modules-right": [  "network", "backlight","cpu",
     "memory", "temperature", "disk", "battery", "pulseaudio", "clock", "tray",
     "custom/powermenu"],
 
