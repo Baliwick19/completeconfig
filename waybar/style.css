@@ -228,4 +228,14 @@ label:focus {
     background-color: #eb4d4b;
 }
 
-
+#custom-switch {
+     font-size: 15px; 
+}
+#custom-powermenu{
+     font-size: 15px; 
+     color: #eb4d4b;
+}
+#custom-apps{
+     font-size: 15px; 
+     color: #00ffff;
+}

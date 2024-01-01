@@ -118,8 +118,13 @@
         "tooltip" : false , 
     },
     "custom/apps": {
-        "format": "  ", 
+        "format": "  ", 
         "on-click": "~/.config/rofi/launchers/pop.sh",
+        "tooltip" : false , 
+    },
+    "custom/switch": {
+        "format": "  ", 
+        "format-alt": "  ", 
         "tooltip" : false , 
     },
     
