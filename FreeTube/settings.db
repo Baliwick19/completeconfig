@@ -1,7 +1,10 @@
 {"_id":"barColor","value":false}
 {"_id":"baseTheme","value":"dark"}
 {"_id":"bounds","value":{"x":5,"y":29,"width":1910,"height":1046,"maximized":false,"fullScreen":false}}
+{"_id":"commentAutoLoadEnabled","value":false}
 {"_id":"defaultQuality","value":"1080"}
+{"_id":"defaultTheatreMode","value":true}
+{"_id":"enableScreenshot","value":true}
 {"_id":"expandSideBar","value":false}
 {"_id":"hideActiveSubscriptions","value":true}
 {"_id":"hideHeaderLogo","value":false}
@@ -11,7 +14,13 @@
 {"_id":"hideSubscriptionsVideos","value":false}
 {"_id":"hideTrendingVideos","value":true}
 {"_id":"mainColor","value":"Blue"}
+{"_id":"proxyVideos","value":false}
+{"_id":"screenshotAskPath","value":true}
+{"_id":"screenshotFormat","value":"jpg"}
+{"_id":"screenshotQuality","value":100}
 {"_id":"secColor","value":"Blue"}
 {"_id":"uiScale","value":85}
 {"_id":"useDeArrowTitles","value":false}
 {"_id":"useSponsorBlock","value":true}
+{"_id":"videoPlaybackRateMouseScroll","value":false}
+{"_id":"videoVolumeMouseScroll","value":false}

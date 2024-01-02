@@ -44,7 +44,7 @@ run_rofi() {
 chosen="$(run_rofi)"
 case ${chosen} in
     $shutdown)
-		poweroff
+		shutdown now 
         ;;
     $reboot)
 		reboot
