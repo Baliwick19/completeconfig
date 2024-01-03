@@ -1,0 +1,7 @@
+2024/01/04-00:30:16.494 57b Reusing MANIFEST /home/quantum/.config/GeoGebra/IndexedDB/app_html_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/04-00:30:16.494 57b Recovering log #3
+2024/01/04-00:30:16.494 57b Reusing old log /home/quantum/.config/GeoGebra/IndexedDB/app_html_0.indexeddb.leveldb/000003.log 
+2024/01/04-00:30:16.513 586 Level-0 table #5: started
+2024/01/04-00:30:16.516 586 Level-0 table #5: 3040 bytes OK
+2024/01/04-00:30:16.518 586 Delete type=0 #3
+2024/01/04-00:30:16.518 579 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

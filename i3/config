@@ -140,8 +140,8 @@ client.background       #ffffff
 exec_always --no-startup-id picom -b 
 
 # Wallpaper
-exec_always --no-startup-id feh --bg-scale /usr/share/backgrounds/personal/wallhaven-m3z7m9_3840x2160.png
-bindsym $mod+w exec--no-startup-id feh --bg-scale /usr/share/backgrounds/personal/wallhaven-m3z7m9_3840x2160.png
+exec_always --no-startup-id feh --bg-scale /usr/share/backgrounds/personal/yup.png
+bindsym $mod+w exec--no-startup-id feh --bg-scale /usr/share/backgrounds/personal/yup.png
 
 # Polybar 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
@@ -172,7 +172,7 @@ exec_always --no-startup-id xset r rate 200 70
 bindsym $mod+Escape exec --no-startup-id  "betterlockscreen --lock --display 1"
 
 # Power menu.
-bindsym $mod+s exec --no-startup-id  ~/.config/rofi/powermenu/run.sh
+bindsym $mod+s exec --no-startup-id  ~/.config/rofi/powermenu/powermenu.sh
 
 # Screenshot.
 bindsym $mod+a exec --no-startup-id  flameshot gui
@@ -181,7 +181,7 @@ bindsym $mod+a exec --no-startup-id  flameshot gui
 # bindsym $mod+w exec --no-startup-id  ~/.config/rofi/switcher/run.sh
 
 # Launcher.
-bindsym $mod+d exec --no-startup-id  ~/.config/rofi/launcher/run.sh
+bindsym $mod+d exec --no-startup-id  ~/.config/rofi/launchers/run.sh
 
 # Volume 
 bindsym $mod+ctrl+Right exec --no-startup-id  pulsemixer --change-volume +1 --max-volume 110
