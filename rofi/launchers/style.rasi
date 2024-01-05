@@ -16,12 +16,12 @@ configuration {
 // Main window.
 window {
     transparency:                "real";
-    location:                    northwest;
-    anchor:                      northwest;
+    location:                    southwest;
+    anchor:                      southwest;
     fullscreen:                  false;
     width:                       200px;
     x-offset:                    6px;
-    y-offset:                    30px;
+    y-offset:                    -30px;
     enabled:                     true;
     margin:                      0px;
     padding:                     0px;
