@@ -75,9 +75,9 @@ button:hover {
 }
 
 #workspaces button.urgent {
-    background-color: #ff0000;
+    background-color: transparent;
+    color: #ff0000;
 }
-
 #mode {
     background-color: #64727D;
     border-bottom: 3px solid #ffffff;
@@ -238,4 +238,18 @@ label:focus {
 #custom-apps{
      font-size: 15px; 
      color: #00ffff;
+}
+
+#taskbar{
+    background-color: transparent;
+}
+
+#taskbar button{
+    margin-top : -3px ; 
+    margin-bottom : -3px ; 
+    border-radius : 100 ;  
+}
+
+#taskbar button.active{
+    background-color: #333333;
 }

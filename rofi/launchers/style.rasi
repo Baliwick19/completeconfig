@@ -20,7 +20,7 @@ window {
     anchor:                      northwest;
     fullscreen:                  false;
     width:                       200px;
-    x-offset:                    0px;
+    x-offset:                    6px;
     y-offset:                    30px;
     enabled:                     true;
     margin:                      0px;

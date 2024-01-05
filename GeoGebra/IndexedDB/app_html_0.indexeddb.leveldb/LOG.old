@@ -1,3 +1,14 @@
-2024/01/04-00:30:08.126 508 Creating DB /home/quantum/.config/GeoGebra/IndexedDB/app_html_0.indexeddb.leveldb since it was missing.
-2024/01/04-00:30:08.130 508 Reusing MANIFEST /home/quantum/.config/GeoGebra/IndexedDB/app_html_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/04-00:30:08.137 517 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/05-12:34:29.934 1223 Reusing MANIFEST /home/quantum/.config/GeoGebra/IndexedDB/app_html_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/05-12:34:29.935 1223 Recovering log #10
+2024/01/05-12:34:29.935 1223 Reusing old log /home/quantum/.config/GeoGebra/IndexedDB/app_html_0.indexeddb.leveldb/000010.log 
+2024/01/05-12:34:29.935 1223 Delete type=2 #8
+2024/01/05-12:34:29.941 1225 Level-0 table #15: started
+2024/01/05-12:34:29.943 1225 Level-0 table #15: 1188 bytes OK
+2024/01/05-12:34:29.944 1225 Delete type=0 #10
+2024/01/05-12:34:29.944 1225 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 307 : 1
+2024/01/05-12:34:29.945 1225 Compacting 1@0 + 1@1 files
+2024/01/05-12:34:29.946 1225 Generated table #16@0: 33 keys, 1017 bytes
+2024/01/05-12:34:29.946 1225 Compacted 1@0 + 1@1 files => 1017 bytes
+2024/01/05-12:34:29.949 1225 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/05-12:34:29.949 1225 Delete type=2 #15
+2024/01/05-12:34:29.949 1223 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 307 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

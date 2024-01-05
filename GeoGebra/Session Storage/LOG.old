@@ -1,2 +1,3 @@
-2024/01/04-00:30:11.161 508 Creating DB /home/quantum/.config/GeoGebra/Session Storage since it was missing.
-2024/01/04-00:30:11.165 508 Reusing MANIFEST /home/quantum/.config/GeoGebra/Session Storage/MANIFEST-000001
+2024/01/05-12:34:31.830 1211 Reusing MANIFEST /home/quantum/.config/GeoGebra/Session Storage/MANIFEST-000001
+2024/01/05-12:34:31.830 1211 Recovering log #3
+2024/01/05-12:34:31.831 1211 Reusing old log /home/quantum/.config/GeoGebra/Session Storage/000003.log 
