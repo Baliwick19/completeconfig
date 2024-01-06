@@ -1,6 +1,6 @@
 {"_id":"barColor","value":false}
 {"_id":"baseTheme","value":"dark"}
-{"_id":"bounds","value":{"x":5,"y":33,"width":1910,"height":1042,"maximized":false,"fullScreen":false}}
+{"_id":"bounds","value":{"x":1925,"y":5,"width":3830,"height":2126,"maximized":false,"fullScreen":false}}
 {"_id":"commentAutoLoadEnabled","value":false}
 {"_id":"defaultQuality","value":"1080"}
 {"_id":"defaultTheatreMode","value":true}
@@ -19,7 +19,7 @@
 {"_id":"screenshotFormat","value":"jpg"}
 {"_id":"screenshotQuality","value":100}
 {"_id":"secColor","value":"Blue"}
-{"_id":"uiScale","value":85}
+{"_id":"uiScale","value":110}
 {"_id":"useDeArrowTitles","value":false}
 {"_id":"useSponsorBlock","value":true}
 {"_id":"videoPlaybackRateMouseScroll","value":false}
