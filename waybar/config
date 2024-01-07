@@ -1,5 +1,5 @@
 {
-    "position": "bottom", // Waybar position (top|bottom|left|right)
+   "position": "bottom", // Waybar position (top|bottom|left|right)
         "height": 10, // Waybar height (to be removed for auto height)
                       // "width": 1280, // Waybar width
         "spacing": 4, // Gaps between modules (4px)
@@ -26,6 +26,10 @@
 
         },
 
+        "hyprland/window": {
+            "max-length": 200,
+            "separate-outputs": true
+        },
         "tray": {
             // "icon-size": 21,
             "spacing": 10
