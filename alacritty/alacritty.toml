@@ -34,9 +34,12 @@ yellow = "#fcf39c"
 
 [colors.primary]
 # background = "#292A37"
-background = "#181A1B"
+# background = "#1E1E1E"
+background = "#2A2A2A"
+# background = "#333333"
+# background = "#181A1B"
 # background = "#121210"
-foreground = "#d4d7ff"
+foreground = "#ffffff"
 
 [cursor]
 style = "Underline"
