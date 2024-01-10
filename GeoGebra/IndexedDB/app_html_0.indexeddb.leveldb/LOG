@@ -1,14 +1,14 @@
-2024/01/05-12:36:21.908 1388 Reusing MANIFEST /home/quantum/.config/GeoGebra/IndexedDB/app_html_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/05-12:36:21.908 1388 Recovering log #14
-2024/01/05-12:36:21.908 1388 Reusing old log /home/quantum/.config/GeoGebra/IndexedDB/app_html_0.indexeddb.leveldb/000014.log 
-2024/01/05-12:36:21.909 1388 Delete type=2 #12
-2024/01/05-12:36:21.926 1388 Level-0 table #19: started
-2024/01/05-12:36:21.928 1388 Level-0 table #19: 1748 bytes OK
-2024/01/05-12:36:21.929 1388 Delete type=0 #14
-2024/01/05-12:36:21.929 1388 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 374 : 1
-2024/01/05-12:36:21.930 1388 Compacting 1@0 + 1@1 files
-2024/01/05-12:36:21.931 1388 Generated table #20@0: 33 keys, 1012 bytes
-2024/01/05-12:36:21.931 1388 Compacted 1@0 + 1@1 files => 1012 bytes
-2024/01/05-12:36:21.932 1388 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/01/05-12:36:21.932 1388 Delete type=2 #19
-2024/01/05-12:36:21.932 1388 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 374 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/10-01:16:09.807 26e1 Reusing MANIFEST /home/quantum/.config/GeoGebra/IndexedDB/app_html_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/10-01:16:09.807 26e1 Recovering log #18
+2024/01/10-01:16:09.807 26e1 Reusing old log /home/quantum/.config/GeoGebra/IndexedDB/app_html_0.indexeddb.leveldb/000018.log 
+2024/01/10-01:16:09.807 26e1 Delete type=2 #16
+2024/01/10-01:16:09.815 26f0 Level-0 table #23: started
+2024/01/10-01:16:09.816 26f0 Level-0 table #23: 1215 bytes OK
+2024/01/10-01:16:09.818 26f0 Delete type=0 #18
+2024/01/10-01:16:09.818 26f0 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 417 : 1
+2024/01/10-01:16:09.818 26f0 Compacting 1@0 + 1@1 files
+2024/01/10-01:16:09.820 26f0 Generated table #24@0: 33 keys, 1007 bytes
+2024/01/10-01:16:09.820 26f0 Compacted 1@0 + 1@1 files => 1007 bytes
+2024/01/10-01:16:09.823 26f0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/10-01:16:09.823 26f0 Delete type=2 #23
+2024/01/10-01:16:09.823 26f0 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 417 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

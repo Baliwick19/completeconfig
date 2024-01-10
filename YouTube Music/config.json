@@ -1,12 +1,12 @@
 {
 	"window-size": {
-		"width": 3830,
-		"height": 2126
+		"width": 3832,
+		"height": 2128
 	},
 	"window-maximized": false,
 	"window-position": {
-		"x": 5,
-		"y": 5
+		"x": 964,
+		"y": 4
 	},
 	"url": "https://music.youtube.com/watch?v=Il0S8BoucSA&list=RDCLAK5uy_mfdqvCAl8wodlx2P2_Ai2gNkiRDAufkkI&index=0",
 	"options": {
@@ -53,7 +53,7 @@
 	},
 	"__internal__": {
 		"migrations": {
-			"version": "3.2.1"
+			"version": "3.2.2"
 		}
 	}
 }

@@ -19,7 +19,7 @@ window {
     location:                    southwest;
     anchor:                      southwest;
     fullscreen:                  false;
-    width:                       400px;
+    width:                       350px;
     x-offset:                    6px;
     y-offset:                    -30px;
     enabled:                     true;

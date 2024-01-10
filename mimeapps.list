@@ -8,6 +8,10 @@ application/pdf=sioyek.desktop
 x-scheme-handler/mailto=userapp-Thunderbird-3R7VG2.desktop
 message/rfc822=userapp-Thunderbird-3R7VG2.desktop
 x-scheme-handler/mid=userapp-Thunderbird-3R7VG2.desktop
+image/png=nsxiv.desktop;
+image/jpeg=nsxiv.desktop;
+image/gif=nsxiv.desktop;
+text/plain=alanvim.desktop
 
 [Added Associations]
 x-scheme-handler/mailto=userapp-Thunderbird-3R7VG2.desktop;
