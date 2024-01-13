@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 rofi                                \
-    -show drun                      \
+    -show drun  -normal-window         \
     -config "$HOME/.config/rofi/launchers/style.rasi"
