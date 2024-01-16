@@ -1,6 +1,6 @@
 {"_id":"barColor","value":false}
 {"_id":"baseTheme","value":"dark"}
-{"_id":"bounds","value":{"x":964,"y":4,"width":1912,"height":2128,"maximized":false,"fullScreen":true}}
+{"_id":"bounds","value":{"x":4400,"y":240,"width":1200,"height":800,"maximized":false,"fullScreen":true}}
 {"_id":"commentAutoLoadEnabled","value":false}
 {"_id":"defaultQuality","value":"1080"}
 {"_id":"defaultTheatreMode","value":true}

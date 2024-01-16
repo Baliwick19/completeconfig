@@ -43,7 +43,7 @@ mainbox {
     border:                      0px solid;
     border-radius:               10px;
     border-color:                @border;
-    background-color:            #000000;
+    background-color:            #00000088;
     children:                    [ "inputbar", "listview" ];
 }
 
@@ -87,7 +87,7 @@ entry {
 listview {
     enabled:                     true;
     columns:                     7;
-    lines:                       6;
+    lines:                       7;
     cycle:                       true;
     dynamic:                     true;
     scrollbar:                   false;

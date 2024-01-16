@@ -8,8 +8,8 @@
         "modules-center": [ "hyprland/workspaces", "hyprland/mode", "hyprland/scratchpad"],
         "modules-left": ["custom/apps","hyprland/window"],
         "modules-right": [  "network", "backlight","cpu",
-        "memory", "temperature", "disk", "battery", "pulseaudio", "clock",  "tray",
-        "custom/powermenu"],
+        "memory", "temperature", "disk", "battery", "pulseaudio", "clock",
+        "tray",  "custom/powermenu"],
 
         // Modules configuration
 
@@ -123,6 +123,11 @@
         "custom/apps": {
             "format": "  ", 
             "on-click": "~/.config/rofi/launchers/pop.sh",
+            "tooltip" : false , 
+        },
+        "custom/wall": {
+            "format": " 󱓻  ", 
+            "on-click": "~/.bin/wallit",
             "tooltip" : false , 
         },
         "custom/switch": {
