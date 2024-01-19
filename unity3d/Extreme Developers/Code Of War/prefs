@@ -1,0 +1,24 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="CamToTankScrollValue" type="float">0.4</pref>
+	<pref name="CurrentServer" type="int">0</pref>
+	<pref name="DefaultButtonSettingsNewScale2340" type="string">eyJmaXJlX3BvcyI6eyJ4IjoyMTc4LjAsInkiOjE4Ny4wLCJ6IjowLjB9LCJ6b29tX3BvcyI6eyJ4IjoyMjUwLjAsInkiOjQ4NS4wLCJ6IjowLjB9LCJyZWxvYWRfcG9zIjp7IngiOjcwNy4wLCJ5IjotNDgzLjAsInoiOjAuMH0sImpveXN0aWNrX3BvcyI6eyJ4IjoyMDYuMCwieSI6MTYzLjAsInoiOjAuMH0sImJvbnVzMV9wb3MiOnsieCI6MTk1MC4wLCJ5IjoxMjMuMCwieiI6MC4wfSwiYm9udXMyX3BvcyI6eyJ4IjoxOTYwLjAsInkiOjI4MC4wLCJ6IjowLjB9LCJib251czNfcG9zIjp7IngiOjIwNzYuMCwieSI6NDEyLjAsInoiOjAuMH0sInB1bmNoX3BvcyI6eyJ4IjowLjAsInkiOjAuMCwieiI6MC4wfSwiZmlyZV9zIjp7IngiOjAuODk5OTk5OTc2MTU4MTQyMSwieSI6MC44OTk5OTk5NzYxNTgxNDIxLCJ6IjoxLjB9LCJ6b29tX3MiOnsieCI6MS4wLCJ5IjoxLjAsInoiOjEuMH0sInJlbG9hZF9zIjp7IngiOjEuMCwieSI6MS4wLCJ6IjoxLjB9LCJqb3lzdGlja19zIjp7IngiOjEuMCwieSI6MS4wLCJ6IjoxLjB9LCJib251czFfcyI6eyJ4IjoxLjAsInkiOjEuMCwieiI6MS4wfSwiYm9udXMyX3MiOnsieCI6MS4wLCJ5IjoxLjAsInoiOjEuMH0sImJvbnVzM19zIjp7IngiOjEuMCwieSI6MS4wLCJ6IjoxLjB9LCJwdW5jaF9zIjp7IngiOjAuMCwieSI6MC4wLCJ6IjowLjB9fQ==</pref>
+	<pref name="GUID_Europe" type="string">MTQxYWEzZjUtMGJmZS00ZTNjLWIyNTAtMGEzZTM1ZWRhMWIz</pref>
+	<pref name="MusicVolume" type="float">0.2</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">768</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1024</pref>
+	<pref name="SoundVolume" type="float">0.5</pref>
+	<pref name="TurretRotationSensitivity" type="float">0.5</pref>
+	<pref name="UnityGraphicsQuality" type="int">4</pref>
+	<pref name="UnityInstallationId" type="string">OTI0YThmNDIwZjc0MGE2YzVhYWFiOWEzYTVkMzk4Mjk=</pref>
+	<pref name="UnitySelectMonitor" type="int">-1</pref>
+	<pref name="WasInBattle" type="int">1</pref>
+	<pref name="unity.cloud_userid" type="string">OTI0YThmNDIwZjc0MGE2YzVhYWFiOWEzYTVkMzk4Mjk=</pref>
+	<pref name="unity.player_session_count" type="string">MQ==</pref>
+	<pref name="unity.player_sessionid" type="string">MzI3Njg3ODM2NzY4OTQwNjAwOQ==</pref>
+</unity_prefs>

@@ -209,8 +209,10 @@ exec --no-startup-id gnome-settings-daemon
 
 
 for_window [class="gnuplot_qt"] floating enable
+for_window [class="Rofi"] floating enable
 for_window [class="gnuplot_qt"] move position left
-for_window [floating] resize set 900 900 
+for_window [class="Rofi"] move position center
+for_window [floating] resize set 200 200 
 
 
 
