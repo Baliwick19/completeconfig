@@ -7,7 +7,7 @@
         // Choose the order of the modules
         "modules-center": [ "hyprland/workspaces", "hyprland/mode", "hyprland/scratchpad"],
         "modules-left": ["custom/apps","hyprland/window"],
-        "modules-right": [  "network", "backlight","cpu",
+        "modules-right": [  "network", "custom/days_count_module" , "backlight","cpu",
         "memory", "temperature", "disk", "battery", "pulseaudio", "clock",
         "tray",  "custom/powermenu"],
 
@@ -34,6 +34,14 @@
             // "icon-size": 21,
             "spacing": 10
         },
+
+
+"custom/days_count_module": {
+    "exec": "~/.bin/ch",
+    "interval": 60  // Update every hour, you can adjust this interval
+},
+
+
         "clock": {
             "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
             "format": "{:%H:%M:%S} ",

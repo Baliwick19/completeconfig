@@ -240,6 +240,11 @@ label:focus {
      color: #00ffff;
 }
 
+#custom-days_count_module{
+    font-size: 14px ;
+    color: #ffff00
+}
+
 #taskbar{
     background-color: transparent;
 }
