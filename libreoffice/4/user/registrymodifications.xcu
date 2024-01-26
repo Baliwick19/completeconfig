@@ -2,8 +2,8 @@
 <oor:items xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <item oor:path="/org.openoffice.Office.Calc/Formula/Calculation"><prop oor:name="OpenCLMinimumDataSize" oor:op="fuse"><value>100</value></prop></item>
 <item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="FirstRun" oor:op="fuse"><value>false</value></prop></item>
-<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="LastTipOfTheDayID" oor:op="fuse"><value>1</value></prop></item>
-<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="LastTipOfTheDayShown" oor:op="fuse"><value>19741</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="LastTipOfTheDayID" oor:op="fuse"><value>3</value></prop></item>
+<item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="LastTipOfTheDayShown" oor:op="fuse"><value>19746</value></prop></item>
 <item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="Persona" oor:op="fuse"><value>no</value></prop></item>
 <item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="PersonaSettings" oor:op="fuse"><value></value></prop></item>
 <item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="SelectedOpenCLDeviceIdentifier" oor:op="fuse"><value>NVIDIA Corporation 545.29.06--7.6.4.1--1702498826</value></prop></item>
@@ -95,9 +95,9 @@
 <item oor:path="/org.openoffice.Office.Views/Windows/org.openoffice.Office.Views:WindowType['swriter/10336']"><prop oor:name="WindowState" oor:op="fuse"><value></value></prop></item>
 <item oor:path="/org.openoffice.Office.Views/Windows"><node oor:name="swriter/10365" oor:op="replace"><prop oor:name="Visible" oor:op="fuse"><value xsi:nil="true"/></prop><node oor:name="UserData"><prop oor:name="Data" oor:op="fuse" oor:type="xs:string"><value>V2,V,128</value></prop></node><prop oor:name="WindowState" oor:op="fuse"><value></value></prop></node></item>
 <item oor:path="/org.openoffice.Setup/L10N"><prop oor:name="ooLocale" oor:op="fuse"><value>en-US</value></prop></item>
-<item oor:path="/org.openoffice.Setup/Office/Factories/org.openoffice.Setup:Factory['com.sun.star.frame.StartModule']"><prop oor:name="ooSetupFactoryWindowAttributes" oor:op="fuse"><value>0,0,3833,2129;5;0,0,3833,2129;</value></prop></item>
+<item oor:path="/org.openoffice.Setup/Office/Factories/org.openoffice.Setup:Factory['com.sun.star.frame.StartModule']"><prop oor:name="ooSetupFactoryWindowAttributes" oor:op="fuse"><value>0,0,1913,1049;5;0,0,1913,1049;</value></prop></item>
 <item oor:path="/org.openoffice.Setup/Office/Factories/org.openoffice.Setup:Factory['com.sun.star.sheet.SpreadsheetDocument']"><prop oor:name="ooSetupFactoryWindowAttributes" oor:op="fuse"><value>0,0,953,1049;5;0,0,953,1049;</value></prop></item>
-<item oor:path="/org.openoffice.Setup/Office/Factories/org.openoffice.Setup:Factory['com.sun.star.text.TextDocument']"><prop oor:name="ooSetupFactoryWindowAttributes" oor:op="fuse"><value>0,0,3833,2129;5;0,0,3833,2129;</value></prop></item>
+<item oor:path="/org.openoffice.Setup/Office/Factories/org.openoffice.Setup:Factory['com.sun.star.text.TextDocument']"><prop oor:name="ooSetupFactoryWindowAttributes" oor:op="fuse"><value>0,0,1913,1049;5;0,0,1913,1049;</value></prop></item>
 <item oor:path="/org.openoffice.Setup/Office"><prop oor:name="LastCompatibilityCheckID" oor:op="fuse"><value>60(Build:1)</value></prop></item>
 <item oor:path="/org.openoffice.Setup/Office"><prop oor:name="OfficeRestartInProgress" oor:op="fuse"><value>false</value></prop></item>
 <item oor:path="/org.openoffice.Setup/Office"><prop oor:name="ooSetupInstCompleted" oor:op="fuse"><value>true</value></prop></item>
