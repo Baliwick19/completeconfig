@@ -19,7 +19,7 @@ window {
     location:                    southwest;
     anchor:                      southwest;
     fullscreen:                  false;
-    width:                       460px;
+    width:                       520px;
     x-offset:                    6px;
     y-offset:                    -30px;
     enabled:                     true;
@@ -86,7 +86,7 @@ entry {
 // Area where all of the results are displayed.
 listview {
     enabled:                     true;
-    columns:                     8;
+    columns:                     9;
     lines:                       7;
     cycle:                       true;
     dynamic:                     true;
