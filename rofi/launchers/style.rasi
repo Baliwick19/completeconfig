@@ -19,7 +19,7 @@ window {
     location:                    southwest;
     anchor:                      southwest;
     fullscreen:                  false;
-    width:                       520px;
+    width:                       440px;
     x-offset:                    6px;
     y-offset:                    -30px;
     enabled:                     true;
@@ -135,7 +135,7 @@ element selected.normal {
 element-icon {
     background-color:            transparent;
     text-color:                  inherit;
-    size:                        40px;
+    size:                        30px;
     cursor:                      inherit;
 }
 element-text {
