@@ -1,5 +1,5 @@
 {
-   "position": "bottom", // Waybar position (top|bottom|left|right)
+   //"position": "bottom", // Waybar position (top|bottom|left|right)
         "height": 10, // Waybar height (to be removed for auto height)
                       // "width": 1280, // Waybar width
         "spacing": 4, // Gaps between modules (4px)
@@ -7,7 +7,7 @@
         // Choose the order of the modules
         "modules-center": [ "hyprland/workspaces", "hyprland/mode", "hyprland/scratchpad"],
         "modules-left": ["custom/apps","hyprland/window"],
-        "modules-right": [  "network", "custom/days_count_module" , "backlight","cpu",
+        "modules-right": [  "network",  "backlight","cpu",
         "memory", "temperature", "disk", "battery", "pulseaudio", "clock",
         "tray",  "custom/powermenu"],
 
@@ -98,8 +98,8 @@
 
         "network": {
             //"interface": "enp5s0", // (Optional) To force the use of this interface
-            "format-ethernet": "{bandwidthDownBytes} 󱒃",
-            "format-wifi": "{bandwidthDownBytes} {essid} ({signalStrength}%)  ",
+            "format-ethernet": " {bandwidthDownBytes}  {bandwidthUpBytes}  󱒃",
+            "format-wifi": " {bandwidthDownBytes}  {bandwidthUpBytes} {essid} ({signalStrength}%)  ",
             "tooltip-format": "{ifname} via {gwaddr}  󱒃",
             "format-linked": "{ifname} (No IP)  󱒃",
             "format-disconnected": "󰶐",

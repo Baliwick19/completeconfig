@@ -4,6 +4,8 @@
     (icon-name "gimp-cursor")
     (name "Core Pointer")
     (tool-options "GimpCropOptions"
+        (aspect-denominator 388)
+        (aspect-numerator 690)
         (tool "gimp-crop-tool")
         (pattern "Pine"))
     (use-fg-bg yes)

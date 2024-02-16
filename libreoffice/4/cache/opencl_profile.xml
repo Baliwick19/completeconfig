@@ -5,12 +5,12 @@
   <type>opencl</type>
   <name>NVIDIA GeForce GTX 1650</name>
   <driver>545.29.06</driver>
-  <time>53210</time>
+  <time>57460</time>
   <errors>false</errors>
  </device>
  <device>
   <type>native</type>
-  <time>3717120</time>
+  <time>2260992</time>
   <errors>false</errors>
  </device>
 </profile>
