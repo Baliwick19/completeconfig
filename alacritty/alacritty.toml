@@ -78,6 +78,8 @@ program = "/usr/bin/zsh"
 
 [window]
 dynamic_padding = true
+opacity = 0.8
+blur = true
 
 [window.class]
 general = "Alacritty"

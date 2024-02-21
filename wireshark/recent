@@ -1,4 +1,4 @@
-# Recent settings file for Wireshark 4.2.2.
+# Recent settings file for Wireshark 4.2.3.
 #
 # This file is regenerated each time Wireshark is quit
 # and when changing configuration profile.
@@ -59,7 +59,7 @@ gui.seconds_format: SECONDS
 
 # Zoom level.
 # A decimal number.
-gui.zoom_level: 0
+gui.zoom_level: -4
 
 # Bytes view display type.
 # One of: HEX, BITS, DEC, OCT
@@ -91,11 +91,11 @@ gui.show_bytes_show: ASCII
 
 # Main window upper (or leftmost) pane size.
 # Decimal number.
-gui.geometry_main_upper_pane: 466
+gui.geometry_main_upper_pane: 895
 
 # Main window middle pane size.
 # Decimal number.
-gui.geometry_main_lower_pane: 954
+gui.geometry_main_lower_pane: 926
 
 # Packet list column pixel widths.
 # Each pair of strings consists of a column format and its pixel width.
@@ -106,7 +106,7 @@ column.width:
         %d, -1,
         %p, -1,
         %L, -1,
-        %i, -1
+        %i, 1152
 
 # Open conversation dialog tabs.
 # List of conversation names, e.g. "TCP", "IPv6".

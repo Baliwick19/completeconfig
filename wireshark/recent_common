@@ -1,4 +1,4 @@
-# Common recent settings file for Wireshark 4.2.2.
+# Common recent settings file for Wireshark 4.2.3.
 #
 # This file is regenerated each time Wireshark is quit
 # and when changing configuration profile.
@@ -12,6 +12,7 @@
 
 ######## Recent display filters (latest last), cannot be altered through command line ########
 
+recent.display_filter: http
 
 # Main window geometry.
 # Decimal numbers.

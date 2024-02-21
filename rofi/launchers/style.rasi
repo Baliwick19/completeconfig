@@ -19,7 +19,7 @@ window {
     location:                    southwest;
     anchor:                      southwest;
     fullscreen:                  false;
-    width:                       440px;
+    width:                       475px;
     x-offset:                    6px;
     y-offset:                    -30px;
     enabled:                     true;
@@ -28,7 +28,7 @@ window {
     border:                      0px solid;
     border-radius:               10px;
     border-color:                @border;
-    background-color:            #00000099;
+    background-color:            #00000055;
     // transparent ; 
     //@background;
     cursor:                      "default";
@@ -86,7 +86,7 @@ entry {
 // Area where all of the results are displayed.
 listview {
     enabled:                     true;
-    columns:                     9;
+    columns:                     10;
     lines:                       7;
     cycle:                       true;
     dynamic:                     true;
