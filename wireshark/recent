@@ -91,7 +91,7 @@ gui.show_bytes_show: ASCII
 
 # Main window upper (or leftmost) pane size.
 # Decimal number.
-gui.geometry_main_upper_pane: 895
+gui.geometry_main_upper_pane: 693
 
 # Main window middle pane size.
 # Decimal number.
@@ -106,7 +106,7 @@ column.width:
         %d, -1,
         %p, -1,
         %L, -1,
-        %i, 1152
+        %i, 1159
 
 # Open conversation dialog tabs.
 # List of conversation names, e.g. "TCP", "IPv6".

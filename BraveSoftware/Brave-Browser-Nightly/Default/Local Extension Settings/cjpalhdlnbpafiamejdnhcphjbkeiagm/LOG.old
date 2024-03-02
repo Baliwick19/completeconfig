@@ -1,0 +1,27 @@
+2024/03/01-14:29:36.447 42f6 Reusing MANIFEST /home/quantum/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/03/01-14:29:36.447 42f6 Recovering log #23
+2024/03/01-14:29:36.458 42f6 Reusing old log /home/quantum/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000023.log 
+2024/03/01-14:31:22.749 42ea Level-0 table #27: started
+2024/03/01-14:31:22.783 42ea Level-0 table #27: 1759736 bytes OK
+2024/03/01-14:31:22.791 42ea Delete type=0 #23
+2024/03/01-14:33:23.549 42ea Level-0 table #29: started
+2024/03/01-14:33:23.592 42ea Level-0 table #29: 2216788 bytes OK
+2024/03/01-14:33:23.595 42e9 Current memtable full; waiting...
+2024/03/01-14:33:23.600 42ea Delete type=0 #26
+2024/03/01-14:33:23.602 42ea Compacting 4@0 + 4@1 files
+2024/03/01-14:33:23.603 42ea Level-0 table #32: started
+2024/03/01-14:33:23.631 42ea Level-0 table #32: 3249828 bytes OK
+2024/03/01-14:33:23.634 42ea Delete type=0 #28
+2024/03/01-14:33:23.687 42ea Generated table #31@0: 8 keys, 2735336 bytes
+2024/03/01-14:33:23.732 42ea Generated table #33@0: 9 keys, 2802168 bytes
+2024/03/01-14:33:23.751 42ea Generated table #34@0: 13 keys, 770565 bytes
+2024/03/01-14:33:23.751 42ea Compacted 4@0 + 4@1 files => 6308069 bytes
+2024/03/01-14:33:23.753 42ea compacted to: files[ 1 3 1 0 0 0 0 ]
+2024/03/01-14:33:23.753 42ea Delete type=2 #27
+2024/03/01-14:33:23.753 42ea Delete type=2 #19
+2024/03/01-14:33:23.753 42ea Delete type=2 #22
+2024/03/01-14:33:23.753 42ea Delete type=2 #17
+2024/03/01-14:33:23.753 42ea Delete type=2 #16
+2024/03/01-14:33:23.753 42ea Delete type=2 #18
+2024/03/01-14:33:23.753 42ea Delete type=2 #29
+2024/03/01-14:33:23.754 42ea Delete type=2 #24

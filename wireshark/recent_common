@@ -60,6 +60,24 @@ gui.search_case_sensitive: FALSE
 # One of: DISPLAY_FILTER, HEX_VALUE, STRING, REGEX
 gui.search_type: DISPLAY_FILTER
 
+# Geometry and maximized state of ExpertInfoDialog window.
+# Decimal integers.
+gui.geom.ExpertInfoDialog.x: 377
+gui.geom.ExpertInfoDialog.y: 0
+gui.geom.ExpertInfoDialog.width: 952
+gui.geom.ExpertInfoDialog.height: 1048
+# TRUE or FALSE (case-insensitive).
+gui.geom.ExpertInfoDialog.maximized: FALSE
+
+# Geometry and maximized state of CaptureFilePropertiesDialog window.
+# Decimal integers.
+gui.geom.CaptureFilePropertiesDialog.x: 313
+gui.geom.CaptureFilePropertiesDialog.y: 0
+gui.geom.CaptureFilePropertiesDialog.width: 952
+gui.geom.CaptureFilePropertiesDialog.height: 1048
+# TRUE or FALSE (case-insensitive).
+gui.geom.CaptureFilePropertiesDialog.maximized: FALSE
+
 # Custom colors.
 # List of custom colors selected in Qt color picker.
 gui.custom_colors: 

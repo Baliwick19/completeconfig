@@ -1,0 +1,12 @@
+2024/03/02-12:46:37.371 4 Reusing MANIFEST /home/quantum/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Storage/leveldb/MANIFEST-000001
+2024/03/02-12:46:37.372 4 Recovering log #3
+2024/03/02-12:46:37.374 4 Reusing old log /home/quantum/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Storage/leveldb/000003.log 
+2024/03/02-12:46:54.469 4 Level-0 table #5: started
+2024/03/02-12:46:54.480 4 Level-0 table #5: 21265 bytes OK
+2024/03/02-12:46:54.484 4 Delete type=0 #3
+2024/03/02-12:49:39.043 6 Level-0 table #7: started
+2024/03/02-12:49:39.048 6 Level-0 table #7: 19757 bytes OK
+2024/03/02-12:49:39.052 6 Delete type=0 #4
+2024/03/02-13:03:23.286 6 Level-0 table #9: started
+2024/03/02-13:03:23.298 6 Level-0 table #9: 19957 bytes OK
+2024/03/02-13:03:23.300 6 Delete type=0 #6
